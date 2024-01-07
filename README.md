@@ -5,7 +5,7 @@ This a design of Login page and Signup build using HTML and CSS.
 
 There is no javascript used in it because it is just a designing page.
 
-If you require the login page t be functional check my another repository called [Login](https://github.com/MADESH-KUMAR-M/Login).
+If you require the login page to be functional and login by check the database , you can check my another repository called [Login](https://github.com/MADESH-KUMAR-M/Login).
 This repository use MqSQL and PHP to Signup and Login by creating the database in MySQL with the same design used here.
 
 The images of Login and Signup page
